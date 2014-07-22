@@ -15,7 +15,7 @@
 ###Requirements
 
 - Experienced in trans tuts or videos.
-- Always availale.
+- Always available.
 - Be enthusiasm not only for the TairanTrans but the whole community. 
 
 ###What's you get
