@@ -12,7 +12,7 @@
 ###Requirements
 
 - Using Markdown to complete the assignments.
-- Do not using html labels, just Markdown.
+- Do not use html labels, just Markdown.
 - Make sure every single word(including the notations in the code snippet) has been translated in Chinese, except the words in the picture. 
 - Do not keep the English in the final version you give me.
 
